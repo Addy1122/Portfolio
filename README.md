@@ -1,6 +1,3 @@
-
-Sure! Below is an example of how you can add a "Contact" section to your README file:
-
 Portfolio
 Welcome to my personal portfolio repository! This is where I showcase my projects, skills, and experiences as a web developer. My portfolio is built using HTML and CSS to create a clean and responsive design that highlights my work effectively.
 
